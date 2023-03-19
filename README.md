@@ -1,7 +1,7 @@
-# FULL PORTFOLIO
+# Full Porfolio
 
 ![alt text](screenshot.png)
 
-# HOW TO ACCESS PORTFOLIO ON LOCAL HOST
+# How to access Portfolio on Local Host Server
 
 
