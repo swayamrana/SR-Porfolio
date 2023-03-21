@@ -1,4 +1,4 @@
-# Full Porfolio
+# Full Portfolio
 
 ![alt text](screenshot.png)
 
