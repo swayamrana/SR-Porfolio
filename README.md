@@ -10,4 +10,4 @@ Run these commands on your local MacOS or Windows terminal:
 
 ```cd SR-Portfolio```
 
-```open -a "Google Chrome" index.htm```
+```open -a "Google Chrome" index.html```
